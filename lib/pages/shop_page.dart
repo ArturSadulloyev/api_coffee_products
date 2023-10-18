@@ -2,7 +2,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import '../cart/cart_cubit.dart';
+import '../cart/cubit_cart.dart';
 import '../main.dart';
 import 'detail_page.dart';
 

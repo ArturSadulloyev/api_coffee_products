@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'app.dart';
-import 'cart/cart_cubit.dart';
-import 'core/service_locatore.dart';
+import 'cart/cubit_cart.dart';
+import 'core/service_locator.dart';
 
 final cartController = CartController();
 final cartRepozitory = CartRepozitory();

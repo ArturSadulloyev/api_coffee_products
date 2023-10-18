@@ -2,7 +2,7 @@ import 'dart:developer';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import '../core/service_locatore.dart';
+import '../core/service_locator.dart';
 import '../main.dart';
 import '../model/product_model.dart';
 import 'detail_page.dart';

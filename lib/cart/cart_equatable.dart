@@ -1,4 +1,4 @@
-part of 'cart_cubit.dart';
+part of 'cubit_cart.dart';
 
  class CartState extends Equatable {
   final int id;

@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import '../core/service_locatore.dart';
+import '../core/service_locator.dart';
 import '../model/product_model.dart';
-part 'cart_state.dart';
+part 'cart_equatable.dart';
 
 class CartController extends Cubit<CartState>{
   CartController():super(CartState(id: 1, item: []));

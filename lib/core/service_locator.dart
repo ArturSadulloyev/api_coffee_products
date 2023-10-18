@@ -1,4 +1,4 @@
-import '../domain/repozitory/product_repozitory.dart';
+import '../domain/repository/product_repository.dart';
 import '../service/http_service.dart';
 
 late RepozitoryProduct repozitory;
